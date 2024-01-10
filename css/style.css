@@ -1,5 +1,5 @@
 body {
-  background-color: #f0f1e9;
+  background-color: #eeeeed;
 }
 
 h1 {
@@ -33,14 +33,14 @@ nav {
 }
 
 p {
-  padding-left: 80px;
-  padding-right: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
   font-size: 120%;
   font-family: Arial, sans-serif;
 }
 
 ul {
-  padding-left: 100px;
+  padding-left: 10%;
   font-size: 130%;
   font-family: Arial, sans-serif;
 }
